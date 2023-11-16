@@ -1,12 +1,6 @@
-// Boilerplate:
+# Basic TicTacToe game
 
-# pixi-typescript-boilerplate
-
-## Beginner friendly template for pixi.js with [Webpack](https://webpack.js.org/)
-
-## Highlights
-
--   📝 - Unit test support with [Jest](https://jestjs.io/), generating code coverage.
+## Boilerplate: pixi-typescript-boilerplate
 
 ## About test assignment
 
