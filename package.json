@@ -29,7 +29,7 @@
         "@types/tween.js": "^18.6.1",
         "core-js": "^3.26.0",
         "pixi-spine": "^3.0.16",
-        "pixi.js": "^6.5.8",
+        "pixi.js": "^7.4.0",
         "regenerator-runtime": "^0.13.10"
     },
     "devDependencies": {
